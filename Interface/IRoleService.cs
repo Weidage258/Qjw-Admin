@@ -16,6 +16,6 @@ namespace Interface
         bool BatchDel(string ids);
         PageInfo GetRoles(RoleReq req);
         RoleRes GetRoleById(long id);
-        public string Test(string a);
+        
     }
 }

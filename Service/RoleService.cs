@@ -32,12 +32,8 @@ namespace Service
            
             return _db.Insertable(info).ExecuteCommand() > 0;
         }
-        public string Test(string a) {
-        var n=    _userService.Test1(a);
-
-
-            return n;
-        }
+        
+     
         public bool Del(long id)
         {
             var info = _db.Queryable<Role>().First(p => p.Id == id);
