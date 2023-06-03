@@ -1,0 +1,17 @@
+C:\Users\WEI\Desktop\admin\Qjw-Admin\Service\bin\Debug\net6.0\Service.deps.json
+C:\Users\WEI\Desktop\admin\Qjw-Admin\Service\bin\Debug\net6.0\Service.dll
+C:\Users\WEI\Desktop\admin\Qjw-Admin\Service\bin\Debug\net6.0\Service.pdb
+C:\Users\WEI\Desktop\admin\Qjw-Admin\Service\bin\Debug\net6.0\Interface.dll
+C:\Users\WEI\Desktop\admin\Qjw-Admin\Service\bin\Debug\net6.0\Model.dll
+C:\Users\WEI\Desktop\admin\Qjw-Admin\Service\bin\Debug\net6.0\Interface.pdb
+C:\Users\WEI\Desktop\admin\Qjw-Admin\Service\bin\Debug\net6.0\Model.pdb
+C:\Users\WEI\Desktop\admin\Qjw-Admin\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+C:\Users\WEI\Desktop\admin\Qjw-Admin\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WEI\Desktop\admin\Qjw-Admin\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+C:\Users\WEI\Desktop\admin\Qjw-Admin\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+C:\Users\WEI\Desktop\admin\Qjw-Admin\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\WEI\Desktop\admin\Qjw-Admin\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+C:\Users\WEI\Desktop\admin\Qjw-Admin\Service\obj\Debug\net6.0\Service.dll
+C:\Users\WEI\Desktop\admin\Qjw-Admin\Service\obj\Debug\net6.0\refint\Service.dll
+C:\Users\WEI\Desktop\admin\Qjw-Admin\Service\obj\Debug\net6.0\Service.pdb
+C:\Users\WEI\Desktop\admin\Qjw-Admin\Service\obj\Debug\net6.0\ref\Service.dll

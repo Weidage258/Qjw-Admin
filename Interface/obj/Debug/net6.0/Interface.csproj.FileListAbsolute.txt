@@ -1,0 +1,15 @@
+C:\Users\WEI\Desktop\admin\Qjw-Admin\Interface\bin\Debug\net6.0\Interface.deps.json
+C:\Users\WEI\Desktop\admin\Qjw-Admin\Interface\bin\Debug\net6.0\Interface.dll
+C:\Users\WEI\Desktop\admin\Qjw-Admin\Interface\bin\Debug\net6.0\Interface.pdb
+C:\Users\WEI\Desktop\admin\Qjw-Admin\Interface\bin\Debug\net6.0\Model.dll
+C:\Users\WEI\Desktop\admin\Qjw-Admin\Interface\bin\Debug\net6.0\Model.pdb
+C:\Users\WEI\Desktop\admin\Qjw-Admin\Interface\obj\Debug\net6.0\Interface.csproj.AssemblyReference.cache
+C:\Users\WEI\Desktop\admin\Qjw-Admin\Interface\obj\Debug\net6.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WEI\Desktop\admin\Qjw-Admin\Interface\obj\Debug\net6.0\Interface.AssemblyInfoInputs.cache
+C:\Users\WEI\Desktop\admin\Qjw-Admin\Interface\obj\Debug\net6.0\Interface.AssemblyInfo.cs
+C:\Users\WEI\Desktop\admin\Qjw-Admin\Interface\obj\Debug\net6.0\Interface.csproj.CoreCompileInputs.cache
+C:\Users\WEI\Desktop\admin\Qjw-Admin\Interface\obj\Debug\net6.0\Interface.csproj.CopyComplete
+C:\Users\WEI\Desktop\admin\Qjw-Admin\Interface\obj\Debug\net6.0\Interface.dll
+C:\Users\WEI\Desktop\admin\Qjw-Admin\Interface\obj\Debug\net6.0\refint\Interface.dll
+C:\Users\WEI\Desktop\admin\Qjw-Admin\Interface\obj\Debug\net6.0\Interface.pdb
+C:\Users\WEI\Desktop\admin\Qjw-Admin\Interface\obj\Debug\net6.0\ref\Interface.dll

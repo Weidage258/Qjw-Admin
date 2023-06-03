@@ -10,7 +10,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Register();
 var app = builder.Build();
-
+//builder.Services.AddTransient<>
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {

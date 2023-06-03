@@ -94,3 +94,8 @@ C:\Users\WEI\Desktop\admin\Qjw-Admin\QjwAdmin\obj\Debug\net7.0\ref\QjwAdmin.dll
 C:\Users\WEI\Desktop\admin\Qjw-Admin\QjwAdmin\bin\Debug\net7.0\Model.dll
 C:\Users\WEI\Desktop\admin\Qjw-Admin\QjwAdmin\bin\Debug\net7.0\Model.pdb
 C:\Users\WEI\Desktop\admin\Qjw-Admin\QjwAdmin\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\WEI\Desktop\admin\Qjw-Admin\QjwAdmin\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\WEI\Desktop\admin\Qjw-Admin\QjwAdmin\bin\Debug\net7.0\Interface.dll
+C:\Users\WEI\Desktop\admin\Qjw-Admin\QjwAdmin\bin\Debug\net7.0\Service.dll
+C:\Users\WEI\Desktop\admin\Qjw-Admin\QjwAdmin\bin\Debug\net7.0\Interface.pdb
+C:\Users\WEI\Desktop\admin\Qjw-Admin\QjwAdmin\bin\Debug\net7.0\Service.pdb

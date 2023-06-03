@@ -1249,6 +1249,19 @@
           }
         }
       },
+      "Interface/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Model": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Interface.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Interface.dll": {}
+        }
+      },
       "Model/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -1260,6 +1273,21 @@
         },
         "runtime": {
           "bin/placeholder/Model.dll": {}
+        }
+      },
+      "Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "AutoMapper": "12.0.1",
+          "Interface": "1.0.0",
+          "Model": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Service.dll": {}
         }
       }
     }
@@ -3954,10 +3982,20 @@
         "version.txt"
       ]
     },
+    "Interface/1.0.0": {
+      "type": "project",
+      "path": "../Interface/Interface.csproj",
+      "msbuildProject": "../Interface/Interface.csproj"
+    },
     "Model/1.0.0": {
       "type": "project",
       "path": "../Model/Model.csproj",
       "msbuildProject": "../Model/Model.csproj"
+    },
+    "Service/1.0.0": {
+      "type": "project",
+      "path": "../Service/Service.csproj",
+      "msbuildProject": "../Service/Service.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -3966,8 +4004,10 @@
       "AutoMapper.Extensions.Microsoft.DependencyInjection >= 12.0.1",
       "Autofac >= 6.4.0",
       "Autofac.Extensions.DependencyInjection >= 8.0.0",
+      "Interface >= 1.0.0",
       "Microsoft.AspNetCore.OpenApi >= 7.0.5",
       "Model >= 1.0.0",
+      "Service >= 1.0.0",
       "SqlSugarCore >= 5.1.4.81",
       "Swashbuckle.AspNetCore >= 6.4.0"
     ]
@@ -3999,8 +4039,14 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
+            "C:\\Users\\WEI\\Desktop\\admin\\Qjw-Admin\\Interface\\Interface.csproj": {
+              "projectPath": "C:\\Users\\WEI\\Desktop\\admin\\Qjw-Admin\\Interface\\Interface.csproj"
+            },
             "C:\\Users\\WEI\\Desktop\\admin\\Qjw-Admin\\Model\\Model.csproj": {
               "projectPath": "C:\\Users\\WEI\\Desktop\\admin\\Qjw-Admin\\Model\\Model.csproj"
+            },
+            "C:\\Users\\WEI\\Desktop\\admin\\Qjw-Admin\\Service\\Service.csproj": {
+              "projectPath": "C:\\Users\\WEI\\Desktop\\admin\\Qjw-Admin\\Service\\Service.csproj"
             }
           }
         }
