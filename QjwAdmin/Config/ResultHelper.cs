@@ -1,6 +1,6 @@
 ﻿using Model.Other;
 
-namespace WebAPI.Config
+namespace QjwAdmin.Config
 {
     public class ResultHelper
     {
