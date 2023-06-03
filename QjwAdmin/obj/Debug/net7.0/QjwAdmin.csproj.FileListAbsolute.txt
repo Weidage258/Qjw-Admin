@@ -93,3 +93,4 @@ C:\Users\WEI\Desktop\admin\Qjw-Admin\QjwAdmin\obj\Debug\net7.0\QjwAdmin.genrunti
 C:\Users\WEI\Desktop\admin\Qjw-Admin\QjwAdmin\obj\Debug\net7.0\ref\QjwAdmin.dll
 C:\Users\WEI\Desktop\admin\Qjw-Admin\QjwAdmin\bin\Debug\net7.0\Model.dll
 C:\Users\WEI\Desktop\admin\Qjw-Admin\QjwAdmin\bin\Debug\net7.0\Model.pdb
+C:\Users\WEI\Desktop\admin\Qjw-Admin\QjwAdmin\bin\Debug\net7.0\AutoMapper.dll

@@ -3,6 +3,7 @@ using Autofac.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using SqlSugar;
 using System.Runtime.CompilerServices;
+using AutoMapper;
 
 namespace QjwAdmin.Config
 {
@@ -38,8 +39,12 @@ namespace QjwAdmin.Config
                 #endregion
 
                 //注册接口和实现层
-            
+                builder.RegisterModule(new AutofacModuleRegister());
+          
             });
+            //Automapper映射
+            builder.Services.AddAutoMapper(typeof(AutoMapperConfigs));
         }
+      
         }
 }
