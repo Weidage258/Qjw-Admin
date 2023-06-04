@@ -2,7 +2,7 @@
 
 # 后端
 
-运用技术 NET6,0 、NET CORE、 sqlSugar、AutoMapper、dto映射、ioc控制反转，完成的权限管理系统 反射
+运用技术 NET6,0 、NET CORE、 sqlSugar、AutoMapper、dto映射、ioc控制反转，完成的权限管理系统  JWT的使用 Log4net 反射
 
 
 
