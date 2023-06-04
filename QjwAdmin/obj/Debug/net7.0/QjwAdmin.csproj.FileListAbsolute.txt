@@ -99,3 +99,5 @@ C:\Users\WEI\Desktop\admin\Qjw-Admin\QjwAdmin\bin\Debug\net7.0\Interface.dll
 C:\Users\WEI\Desktop\admin\Qjw-Admin\QjwAdmin\bin\Debug\net7.0\Service.dll
 C:\Users\WEI\Desktop\admin\Qjw-Admin\QjwAdmin\bin\Debug\net7.0\Interface.pdb
 C:\Users\WEI\Desktop\admin\Qjw-Admin\QjwAdmin\bin\Debug\net7.0\Service.pdb
+C:\Users\WEI\Desktop\admin\Qjw-Admin\QjwAdmin\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\WEI\Desktop\admin\Qjw-Admin\QjwAdmin\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll

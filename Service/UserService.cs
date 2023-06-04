@@ -11,12 +11,10 @@ namespace Service
     {
         private readonly IMapper _mapper;
         private ISqlSugarClient _db { get; set; }
-        private readonly IRoleService _roleService;
-        public UserService(IMapper mapper, ISqlSugarClient db, RoleService roleService)
+        public UserService(IMapper mapper, ISqlSugarClient db)
         {
             _mapper = mapper;
             _db = db;
-            _roleService = roleService;
         }
         public UserRes GetUser(string userName, string password)
         {

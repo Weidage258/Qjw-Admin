@@ -12,8 +12,7 @@ namespace Interface
         /// <param name="password"></param>
         /// <returns></returns>
         UserRes GetUser(string userName, string password);
-        public string Test(string a);
-        public string Test1(string a);
+    
         /// <summary>
         /// 添加
         /// </summary>

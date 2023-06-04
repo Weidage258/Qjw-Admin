@@ -10,7 +10,7 @@ namespace QjwAdmin.Controllers
    
     [Route("api/[controller]/[action]")]
     [ApiController]
-    //[Authorize]
+    [Authorize]
     public class UsersController : ControllerBase
     {
         private readonly IUserService _users;
@@ -29,6 +29,11 @@ namespace QjwAdmin.Controllers
         {
             return ResultHelper.Success(_users.GetUsersById(id));
         }
+        [HttpGet]
+        public long test(long id)
+        {
+            return id;
+        }
         [HttpPost]
         public ApiResult Add(UserAdd req)
         {
@@ -43,11 +48,7 @@ namespace QjwAdmin.Controllers
             long userId = Convert.ToInt32(HttpContext.User.Claims.ToList()[0].Value);
             return ResultHelper.Success(_users.Edit(req, userId));
         }
-        [HttpGet]
-        public ApiResult Test(string a) {
-
-            return ResultHelper.Success(_users.Test(a));
-        }
+       
         [HttpGet]
         public ApiResult Del(long id)
         {
