@@ -183,4 +183,14 @@ builder.RegisterModule(new AutofacModuleRegister());
 
         }
 ```
+  三、使用JWT的使用
+ 1.引入Microsoft.AspNetCore.Authentication.JwtBearer
+
+2.搭建认证服务（Model，抽象类，实现）提供生成Token方法
+
+3.注册JWT
+app.Services.Configure<JWTTokenOptions>(builder.Configuration.GetSection("JWTTokenOptions"));
+
+4.appsettings.json 添加配置)
+
 
